@@ -1,0 +1,62 @@
+footer {
+    padding-top: 16px;
+    background: rgba(0, 0, 0, .03);
+    border-top: 1px solid rgba(0, 0, 0, .1);
+
+}
+
+#header {
+    background-color: #c6e5fc;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    position: relative;
+    z-index: 99;
+}
+
+footer nav ul li {
+    display: inline;
+}
+
+#main {
+    padding: 24px 0;
+}
+
+#navswitch {
+    margin-bottom: 24px;
+}
+
+.rtl #navswitch {
+    text-align: right;
+}
+
+@media (min-width: 1200px) {
+    #navswitch {
+        position: fixed;
+        left: 0;
+        top: 62px;
+        transition: all 0.2s ease;
+        width: auto;
+    }
+
+    #navswitch.offset {
+        top: 0px;
+    }
+
+    .rtl #navswitch {
+        left: inherit;
+        right: 0;
+        text-align: right;
+    }
+}
+
+.table-info {
+    color: #888;
+    margin-top: 20px;
+}
+
+.table-responsive {
+    margin-top: 24px;
+}
+
+table.dataTable {
+    padding-top: 24px;
+}

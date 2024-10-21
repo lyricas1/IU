@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <!-- Meta Tags und Bootstrap per CDN einbinden -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Security-Policy"
+        content="default-src 'self'; style-src 'self' https://cdn.jsdelivr.net https://cdn.datatables.net; connect-src 'self' https://cdn.datatables.net;script-src 'self' https://cdn.datatables.net https://cdn.jsdelivr.net https://code.jquery.com/; font-src https://cdn.jsdelivr.net;  img-src 'self' data:;" />
+    <!-- Bootstrap Minimal CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/2.1.4/css/dataTables.dataTables.min.css">
+
+    <link href="stylesheet/style.css" rel="stylesheet">
+    <title>CO2-Transparenz</title>
+    <link rel="icon" href="img/logo.jpeg" type="image/x-icon" class="rounded-circle">
+</head>
+
+<body>
+    <header id="header"></header>
+
+    <!-- Ab hier Inhalt der Seite -->
+    <main id="main">
+        <div class="container content" id="content">
+            <h1>Analyse CO2-Emissionen</h1>
+            <br>
+            <h5>Hier finden Sie die Ergebnisse unserer umfangreichen Analysen zu den CO2-Emissionsdaten <br><br>
+                Sie können die Tabelle sortieren und filtern.</h5>
+
+            <!-- Filterung und Sortierung erfolgt per Javascript -->
+            <div class="table-responsive">
+                <table class="table table-light table-hover table-striped" id="tabelleco2">
+                    <thead class="table-light">
+                        <tr>
+                            <th scope="col">Lfd</th>
+                            <th scope="col">Land</th>
+                            <th scope="col">Unternehmen / Typ</th>
+                            <th scope="col">Jahr</th>
+                            <th scope="col">Emissionen <sup>*</sup></th>
+                        </tr>
+                    </thead>
+                    <tbody class="table-group-divider">
+                    </tbody>
+                </table>
+                <p class="table-info"><sup>*</sup>Angaben in Tonnen</p>
+            </div>
+        </div>
+    </main>
+    <footer id="footer"></footer>
+
+    <!-- Bootstrap Minimal JS, Popper.js und Jquery (beide inkludiert) per CDN einbinden -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"></script>
+
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <!-- DataTables JS -->
+    <script src="https://cdn.datatables.net/2.1.4/js/dataTables.min.js"></script>
+
+    <script type="text/javascript" src="js/main.js"></script>
+    <script type="text/javascript" src="js/emissions.js"></script>
+</body>
+
+</html>

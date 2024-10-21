@@ -1,0 +1,2851 @@
+[
+    {
+        "lfd": "1",
+        "land": "Africa Eastern and Southern",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "544.952.503,00"
+    },
+    {
+        "lfd": "2",
+        "land": "Afghanistan",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "8709.47"
+    },
+    {
+        "lfd": "3",
+        "land": "Africa Western and Central",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "215915.61"
+    },
+    {
+        "lfd": "4",
+        "land": "Angola",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "19814.5"
+    },
+    {
+        "lfd": "5",
+        "land": "Albania",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "4383.2"
+    },
+    {
+        "lfd": "6",
+        "land": "Andorra",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "448.884.399,00"
+    },
+    {
+        "lfd": "7",
+        "land": "Arab World",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "1765052.9"
+    },
+    {
+        "lfd": "8",
+        "land": "United Arab Emirates",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "188088.7"
+    },
+    {
+        "lfd": "9",
+        "land": "Argentina",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "154535.9"
+    },
+    {
+        "lfd": "10",
+        "land": "Armenia",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "6746.6"
+    },
+    {
+        "lfd": "11",
+        "land": "Antigua and Barbuda",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "474.6"
+    },
+    {
+        "lfd": "12",
+        "land": "Australia",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "378996.8"
+    },
+    {
+        "lfd": "13",
+        "land": "Austria",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "59142.4"
+    },
+    {
+        "lfd": "14",
+        "land": "Azerbaijan",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "34305.0"
+    },
+    {
+        "lfd": "15",
+        "land": "Burundi",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "713.466,00"
+    },
+    {
+        "lfd": "16",
+        "land": "Belgium",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "85364.1"
+    },
+    {
+        "lfd": "17",
+        "land": "Benin",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "7980.4"
+    },
+    {
+        "lfd": "18",
+        "land": "Burkina Faso",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "5456.7"
+    },
+    {
+        "lfd": "19",
+        "land": "Bangladesh",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "85493.1"
+    },
+    {
+        "lfd": "20",
+        "land": "Bulgaria",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "34138.1"
+    },
+    {
+        "lfd": "21",
+        "land": "Bahrain",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "32470.2"
+    },
+    {
+        "lfd": "22",
+        "land": "Bosnia and Herzegovina",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "20946.8"
+    },
+    {
+        "lfd": "23",
+        "land": "Belarus",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "54801.5"
+    },
+    {
+        "lfd": "24",
+        "land": "Belize",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "687.6"
+    },
+    {
+        "lfd": "25",
+        "land": "Bolivia",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "18375.3"
+    },
+    {
+        "lfd": "26",
+        "land": "Brazil",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "414138.8"
+    },
+    {
+        "lfd": "27",
+        "land": "Barbados",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "1096.07"
+    },
+    {
+        "lfd": "28",
+        "land": "Brunei Darussalam",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "9588.0"
+    },
+    {
+        "lfd": "29",
+        "land": "Bhutan",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "1035.2"
+    },
+    {
+        "lfd": "30",
+        "land": "Botswana",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "5.763.687,00"
+    },
+    {
+        "lfd": "31",
+        "land": "Central African Republic",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "236.6"
+    },
+    {
+        "lfd": "32",
+        "land": "Canada",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "516873.7"
+    },
+    {
+        "lfd": "33",
+        "land": "Central Europe and the Baltics",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "598490.02"
+    },
+    {
+        "lfd": "34",
+        "land": "Switzerland",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "34916.1"
+    },
+    {
+        "lfd": "35",
+        "land": "Chile",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "84827.8"
+    },
+    {
+        "lfd": "36",
+        "land": "China",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "10944686.2"
+    },
+    {
+        "lfd": "37",
+        "land": "Cote d'Ivoire",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "10894.9"
+    },
+    {
+        "lfd": "38",
+        "land": "Cameroon",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "9928.4"
+    },
+    {
+        "lfd": "39",
+        "land": "Colombia",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "79057.6"
+    },
+    {
+        "lfd": "40",
+        "land": "Comoros",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "328.2"
+    },
+    {
+        "lfd": "41",
+        "land": "Cabo Verde",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "620.6"
+    },
+    {
+        "lfd": "42",
+        "land": "Costa Rica",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "6967.4"
+    },
+    {
+        "lfd": "43",
+        "land": "Caribbean small states",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "32776.99"
+    },
+    {
+        "lfd": "44",
+        "land": "Cuba",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "24327.8"
+    },
+    {
+        "lfd": "45",
+        "land": "Cyprus",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "6771.8"
+    },
+    {
+        "lfd": "46",
+        "land": "Czechia",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "88835.2"
+    },
+    {
+        "lfd": "47",
+        "land": "Germany",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "603350.5"
+    },
+    {
+        "lfd": "48",
+        "land": "Djibouti",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "427.7"
+    },
+    {
+        "lfd": "49",
+        "land": "Dominica",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "162.8"
+    },
+    {
+        "lfd": "50",
+        "land": "Denmark",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "27356.5"
+    },
+    {
+        "lfd": "51",
+        "land": "Dominican Republic",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "22881.3"
+    },
+    {
+        "lfd": "52",
+        "land": "Algeria",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "161563.0"
+    },
+    {
+        "lfd": "53",
+        "land": "East Asia & Pacific (excluding high income)",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "12660698.2"
+    },
+    {
+        "lfd": "54",
+        "land": "Early-demographic dividend",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "6.805.648.307,00"
+    },
+    {
+        "lfd": "55",
+        "land": "East Asia & Pacific",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "14708135.6"
+    },
+    {
+        "lfd": "56",
+        "land": "Europe & Central Asia (excluding high income)",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "2830714.8"
+    },
+    {
+        "lfd": "57",
+        "land": "Europe & Central Asia",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "5.641.772.700.492,00"
+    },
+    {
+        "lfd": "58",
+        "land": "Ecuador",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "34431.0"
+    },
+    {
+        "lfd": "59",
+        "land": "Euro area",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "1872835.52"
+    },
+    {
+        "lfd": "60",
+        "land": "Eritrea",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "706.4"
+    },
+    {
+        "lfd": "61",
+        "land": "Spain",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "202705.8"
+    },
+    {
+        "lfd": "62",
+        "land": "Estonia",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "7097.52"
+    },
+    {
+        "lfd": "63",
+        "land": "Ethiopia",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "18098.0"
+    },
+    {
+        "lfd": "64",
+        "land": "European Union",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "2465025.42"
+    },
+    {
+        "lfd": "65",
+        "land": "Fragile and conflict affected situations",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "759.327.426,00"
+    },
+    {
+        "lfd": "66",
+        "land": "Finland",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "36329.9"
+    },
+    {
+        "lfd": "67",
+        "land": "Fiji",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "1028.2"
+    },
+    {
+        "lfd": "68",
+        "land": "France",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "267154.7"
+    },
+    {
+        "lfd": "69",
+        "land": "Gabon",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "5349.2"
+    },
+    {
+        "lfd": "70",
+        "land": "United Kingdom",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "308650.3"
+    },
+    {
+        "lfd": "71",
+        "land": "Georgia",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "10255.0"
+    },
+    {
+        "lfd": "72",
+        "land": "Ghana",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "19401.16"
+    },
+    {
+        "lfd": "73",
+        "land": "Guinea",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "4537.9"
+    },
+    {
+        "lfd": "74",
+        "land": "Guinea-Bissau",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "329.0"
+    },
+    {
+        "lfd": "75",
+        "land": "Equatorial Guinea",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "4350.4"
+    },
+    {
+        "lfd": "76",
+        "land": "Greece",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "51002.2"
+    },
+    {
+        "lfd": "77",
+        "land": "Grenada",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "324.5"
+    },
+    {
+        "lfd": "78",
+        "land": "Guatemala",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "16865.2"
+    },
+    {
+        "lfd": "79",
+        "land": "Guyana",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "2768.5"
+    },
+    {
+        "lfd": "80",
+        "land": "High income",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "10.864.997.070.492,00"
+    },
+    {
+        "lfd": "81",
+        "land": "Honduras",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "8835.4"
+    },
+    {
+        "lfd": "82",
+        "land": "Heavily indebted poor countries (HIPC)",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "224.996.636,00"
+    },
+    {
+        "lfd": "83",
+        "land": "Croatia",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "15626.9"
+    },
+    {
+        "lfd": "84",
+        "land": "Haiti",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "3209.04"
+    },
+    {
+        "lfd": "85",
+        "land": "Hungary",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "44769.3"
+    },
+    {
+        "lfd": "86",
+        "land": "IBRD only",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "20.952.613.307,00"
+    },
+    {
+        "lfd": "87",
+        "land": "IDA & IBRD total",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "21.862.973.943,00"
+    },
+    {
+        "lfd": "88",
+        "land": "IDA total",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "910.360.636,00"
+    },
+    {
+        "lfd": "89",
+        "land": "IDA blend",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "465301.4"
+    },
+    {
+        "lfd": "90",
+        "land": "Indonesia",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "563197.0"
+    },
+    {
+        "lfd": "91",
+        "land": "IDA only",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "445.059.236,00"
+    },
+    {
+        "lfd": "92",
+        "land": "India",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "2200836.3"
+    },
+    {
+        "lfd": "93",
+        "land": "Ireland",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "33742.2"
+    },
+    {
+        "lfd": "94",
+        "land": "Iraq",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "163511.5"
+    },
+    {
+        "lfd": "95",
+        "land": "Iceland",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "1446.6"
+    },
+    {
+        "lfd": "96",
+        "land": "Israel",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "58471.8"
+    },
+    {
+        "lfd": "97",
+        "land": "Italy",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "5835.6"
+    },
+    {
+        "lfd": "98",
+        "land": "Jamaica",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "20974.1"
+    },
+    {
+        "lfd": "99",
+        "land": "Jordan",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "1014064.7"
+    },
+    {
+        "lfd": "100",
+        "land": "Japan",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "211896.7"
+    },
+    {
+        "lfd": "101",
+        "land": "Kazakhstan",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "19446.8"
+    },
+    {
+        "lfd": "102",
+        "land": "Kenya",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "9080.1"
+    },
+    {
+        "lfd": "103",
+        "land": "Kyrgyz Republic",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "18652.8"
+    },
+    {
+        "lfd": "104",
+        "land": "Cambodia",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "56.9"
+    },
+    {
+        "lfd": "105",
+        "land": "Kiribati",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "231.0"
+    },
+    {
+        "lfd": "106",
+        "land": "St. Kitts and Nevis",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "92308.9"
+    },
+    {
+        "lfd": "107",
+        "land": "Kuwait",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "1242200.06"
+    },
+    {
+        "lfd": "108",
+        "land": "Latin America & Caribbean (excluding high income)",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "19178.9"
+    },
+    {
+        "lfd": "109",
+        "land": "Lao PDR",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "21474.9"
+    },
+    {
+        "lfd": "110",
+        "land": "Lebanon",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "1179.5"
+    },
+    {
+        "lfd": "111",
+        "land": "Liberia",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "44467.0"
+    },
+    {
+        "lfd": "112",
+        "land": "Libya",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "499.2"
+    },
+    {
+        "lfd": "113",
+        "land": "St. Lucia",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "1438080.03"
+    },
+    {
+        "lfd": "114",
+        "land": "Latin America & Caribbean",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "351.230.476,00"
+    },
+    {
+        "lfd": "115",
+        "land": "Least developed countries: UN classification",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "179.664.936,00"
+    },
+    {
+        "lfd": "116",
+        "land": "Low income",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "141.996.093,00"
+    },
+    {
+        "lfd": "117",
+        "land": "Liechtenstein",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "21846.3"
+    },
+    {
+        "lfd": "118",
+        "land": "Sri Lanka",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "4819595.8"
+    },
+    {
+        "lfd": "119",
+        "land": "Lower middle income",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "21.383.256.243,00"
+    },
+    {
+        "lfd": "120",
+        "land": "Low & middle income",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "2311.9"
+    },
+    {
+        "lfd": "121",
+        "land": "Lesotho",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "15488347.62"
+    },
+    {
+        "lfd": "122",
+        "land": "Late-demographic dividend",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "11693.8"
+    },
+    {
+        "lfd": "123",
+        "land": "Lithuania",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "7853.1"
+    },
+    {
+        "lfd": "124",
+        "land": "Luxembourg",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "6928.3"
+    },
+    {
+        "lfd": "125",
+        "land": "Latvia",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "66719.5"
+    },
+    {
+        "lfd": "126",
+        "land": "Morocco",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "8611.2"
+    },
+    {
+        "lfd": "127",
+        "land": "Moldova",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "2745.45"
+    },
+    {
+        "lfd": "128",
+        "land": "Madagascar",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "1454.0"
+    },
+    {
+        "lfd": "129",
+        "land": "Maldives",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "2416064.9"
+    },
+    {
+        "lfd": "130",
+        "land": "Middle East & North Africa",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "383131.4"
+    },
+    {
+        "lfd": "131",
+        "land": "Mexico",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "110.0"
+    },
+    {
+        "lfd": "132",
+        "land": "North America",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "897.4"
+    },
+    {
+        "lfd": "133",
+        "land": "Middle income",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "190.491.908.287,00"
+    },
+    {
+        "lfd": "134",
+        "land": "Montenegro",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "2925.2"
+    },
+    {
+        "lfd": "135",
+        "land": "Myanmar",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "69421.7"
+    },
+    {
+        "lfd": "136",
+        "land": "Mauritius",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "15402.3"
+    },
+    {
+        "lfd": "137",
+        "land": "Mali",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "53067.7"
+    },
+    {
+        "lfd": "138",
+        "land": "Moldova, Republic of",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "2991.8"
+    },
+    {
+        "lfd": "139",
+        "land": "Malawi",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "150250.8"
+    },
+    {
+        "lfd": "140",
+        "land": "Mauritania",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "6518.6"
+    },
+    {
+        "lfd": "141",
+        "land": "Myanmar (formerly Burma)",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "101.105.125,00"
+    },
+    {
+        "lfd": "142",
+        "land": "Middle East & North Africa (excluding high income)",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "1070240.0"
+    },
+    {
+        "lfd": "143",
+        "land": "North America (excluding high income)",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "1177.0"
+    },
+    {
+        "lfd": "144",
+        "land": "North Korea",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "600.0"
+    },
+    {
+        "lfd": "145",
+        "land": "New Zealand",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "110000.0"
+    },
+    {
+        "lfd": "146",
+        "land": "New Caledonia",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "80.5"
+    },
+    {
+        "lfd": "147",
+        "land": "New Zealand (excluding high income)",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "59303.6"
+    },
+    {
+        "lfd": "148",
+        "land": "Niger",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "3229.0"
+    },
+    {
+        "lfd": "149",
+        "land": "Oman",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "11279.5"
+    },
+    {
+        "lfd": "150",
+        "land": "Pakistan",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "41418.7"
+    },
+    {
+        "lfd": "151",
+        "land": "Philippines",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "119879.2"
+    },
+    {
+        "lfd": "152",
+        "land": "Poland",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "68372.6"
+    },
+    {
+        "lfd": "153",
+        "land": "Portugal",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "8047.6"
+    },
+    {
+        "lfd": "154",
+        "land": "Paraguay",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "37923.5"
+    },
+    {
+        "lfd": "155",
+        "land": "Palestine",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "13025.4"
+    },
+    {
+        "lfd": "156",
+        "land": "South Asia",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "5390709.0"
+    },
+    {
+        "lfd": "157",
+        "land": "South Sudan",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "15370.9"
+    },
+    {
+        "lfd": "158",
+        "land": "Somalia",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "2394.2"
+    },
+    {
+        "lfd": "159",
+        "land": "Serbia",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "6919.6"
+    },
+    {
+        "lfd": "160",
+        "land": "San Marino",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "4760.0"
+    },
+    {
+        "lfd": "161",
+        "land": "Solomon Islands",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "1251.0"
+    },
+    {
+        "lfd": "162",
+        "land": "São Tomé and Príncipe",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "1706.5"
+    },
+    {
+        "lfd": "163",
+        "land": "South Korea",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "12103.0"
+    },
+    {
+        "lfd": "164",
+        "land": "Saudi Arabia",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "11040.1"
+    },
+    {
+        "lfd": "165",
+        "land": "Russia",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "160007.4"
+    },
+    {
+        "lfd": "166",
+        "land": "Rwanda",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "50783.3"
+    },
+    {
+        "lfd": "167",
+        "land": "Romania",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "26000.4"
+    },
+    {
+        "lfd": "168",
+        "land": "Qatar",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "1511086.0"
+    },
+    {
+        "lfd": "169",
+        "land": "South America",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "62164.3"
+    },
+    {
+        "lfd": "170",
+        "land": "Singapore",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "4047.5"
+    },
+    {
+        "lfd": "171",
+        "land": "Slovak Republic",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "24744.6"
+    },
+    {
+        "lfd": "172",
+        "land": "Slovenia",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "1104.3"
+    },
+    {
+        "lfd": "173",
+        "land": "Sierra Leone",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "12256.4"
+    },
+    {
+        "lfd": "174",
+        "land": "Serbia and Montenegro",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "34648.0"
+    },
+    {
+        "lfd": "175",
+        "land": "Sweden",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "65054.1"
+    },
+    {
+        "lfd": "176",
+        "land": "Switzerland",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "129600.0"
+    },
+    {
+        "lfd": "177",
+        "land": "Syrian Arab Republic",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "26500.0"
+    },
+    {
+        "lfd": "178",
+        "land": "Sweden (excluding high income)",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "37394.0"
+    },
+    {
+        "lfd": "179",
+        "land": "Syrian Arab Republic (excluding high income)",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "31500.0"
+    },
+    {
+        "lfd": "180",
+        "land": "Timor-Leste",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "1006.0"
+    },
+    {
+        "lfd": "181",
+        "land": "Tunisia",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "40621.6"
+    },
+    {
+        "lfd": "182",
+        "land": "Tajikistan",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "15542.6"
+    },
+    {
+        "lfd": "183",
+        "land": "Turkmenistan",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "37132.4"
+    },
+    {
+        "lfd": "184",
+        "land": "Turkey",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "31124.6"
+    },
+    {
+        "lfd": "185",
+        "land": "Tuvalu",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "150.0"
+    },
+    {
+        "lfd": "186",
+        "land": "United States",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "9870137.0"
+    },
+    {
+        "lfd": "187",
+        "land": "Uruguay",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "205091.1"
+    },
+    {
+        "lfd": "188",
+        "land": "Venezuela",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "473158.5"
+    },
+    {
+        "lfd": "189",
+        "land": "Vanuatu",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "4201.7"
+    },
+    {
+        "lfd": "190",
+        "land": "West Bank and Gaza",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "12631.7"
+    },
+    {
+        "lfd": "191",
+        "land": "Yemen",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "42554.5"
+    },
+    {
+        "lfd": "192",
+        "land": "United Kingdom",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "35670.4"
+    },
+    {
+        "lfd": "193",
+        "land": "South Africa",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "58782.3"
+    },
+    {
+        "lfd": "194",
+        "land": "Switzerland (excluding high income)",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "25800.0"
+    },
+    {
+        "lfd": "195",
+        "land": "United Arab Emirates",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "25986.6"
+    },
+    {
+        "lfd": "196",
+        "land": "Yemen (excluding high income)",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "11088.0"
+    },
+    {
+        "lfd": "197",
+        "land": "Uzbekistan",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "57093.7"
+    },
+    {
+        "lfd": "198",
+        "land": "Ukraine",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "47017.3"
+    },
+    {
+        "lfd": "199",
+        "land": "Vanuatu (excluding high income)",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "3500.0"
+    },
+    {
+        "lfd": "200",
+        "land": "West Bank and Gaza (excluding high income)",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "5900.0"
+    },
+    {
+        "lfd": "201",
+        "land": "Central Asia",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "22064.0"
+    },
+    {
+        "lfd": "202",
+        "land": "World",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "30.278.304.343.00"
+    },
+    {
+        "lfd": "203",
+        "land": "West Africa",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "2755.6"
+    },
+    {
+        "lfd": "204",
+        "land": "South Asia (excluding high income)",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "1915.0"
+    },
+    {
+        "lfd": "205",
+        "land": "South America (excluding high income)",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "45815.5"
+    },
+    {
+        "lfd": "206",
+        "land": "Sub-Saharan Africa",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "23603.4"
+    },
+    {
+        "lfd": "207",
+        "land": "Sub-Saharan Africa (excluding high income)",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "112605.0"
+    },
+    {
+        "lfd": "208",
+        "land": "Small states",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "95181.8"
+    },
+    {
+        "lfd": "209",
+        "land": "Timor-Leste (excluding high income)",
+        "unternehmen": "Land",
+        "jahr": "2020",
+        "emissionen": "984.0"
+    },
+    {
+        "lfd": "210",
+        "land": "Africa Eastern and Southern",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "610723.5"
+    },
+    {
+        "lfd": "211",
+        "land": "Afghanistan",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "11238.83"
+    },
+    {
+        "lfd": "212",
+        "land": "Africa Western and Central",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "222990.35"
+    },
+    {
+        "lfd": "213",
+        "land": "Angola",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "24382.9"
+    },
+    {
+        "lfd": "214",
+        "land": "Albania",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "4993.3"
+    },
+    {
+        "lfd": "215",
+        "land": "Andorra",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "479.984"
+    },
+    {
+        "lfd": "216",
+        "land": "Arab World",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "1845846.37"
+    },
+    {
+        "lfd": "217",
+        "land": "United Arab Emirates",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "185645.7"
+    },
+    {
+        "lfd": "218",
+        "land": "Argentina",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "168162.0"
+    },
+    {
+        "lfd": "219",
+        "land": "Armenia",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "6195.6"
+    },
+    {
+        "lfd": "220",
+        "land": "Antigua and Barbuda",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "509.0"
+    },
+    {
+        "lfd": "221",
+        "land": "Australia",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "395199.1"
+    },
+    {
+        "lfd": "222",
+        "land": "Austria",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "64497.8"
+    },
+    {
+        "lfd": "223",
+        "land": "Azerbaijan",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "35521.0"
+    },
+    {
+        "lfd": "224",
+        "land": "Burundi",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "707.4"
+    },
+    {
+        "lfd": "225",
+        "land": "Belgium",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "92989.4"
+    },
+    {
+        "lfd": "226",
+        "land": "Benin",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "7475.5"
+    },
+    {
+        "lfd": "227",
+        "land": "Burkina Faso",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "5646.5"
+    },
+    {
+        "lfd": "228",
+        "land": "Bangladesh",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "92645.0"
+    },
+    {
+        "lfd": "229",
+        "land": "Bulgaria",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "39159.9"
+    },
+    {
+        "lfd": "230",
+        "land": "Bahrain",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "32966.8"
+    },
+    {
+        "lfd": "231",
+        "land": "Bosnia and Herzegovina",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "21124.3"
+    },
+    {
+        "lfd": "232",
+        "land": "Belarus",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "57681.2"
+    },
+    {
+        "lfd": "233",
+        "land": "Belize",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "736.2"
+    },
+    {
+        "lfd": "234",
+        "land": "Bolivia",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "21828.8"
+    },
+    {
+        "lfd": "235",
+        "land": "Brazil",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "434318.0"
+    },
+    {
+        "lfd": "236",
+        "land": "Barbados",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "1167.27"
+    },
+    {
+        "lfd": "237",
+        "land": "Brunei Darussalam",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "7057.8"
+    },
+    {
+        "lfd": "238",
+        "land": "Bhutan",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "1433.0"
+    },
+    {
+        "lfd": "239",
+        "land": "Botswana",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "7198.3"
+    },
+    {
+        "lfd": "240",
+        "land": "Central African Republic",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "235.4"
+    },
+    {
+        "lfd": "241",
+        "land": "Canada",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "566001.8"
+    },
+    {
+        "lfd": "242",
+        "land": "Central Europe and the Baltics",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "643612.1"
+    },
+    {
+        "lfd": "243",
+        "land": "Switzerland",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "37376.3"
+    },
+    {
+        "lfd": "244",
+        "land": "Chile",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "91915.4"
+    },
+    {
+        "lfd": "245",
+        "land": "China",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "10762824.0"
+    },
+    {
+        "lfd": "246",
+        "land": "Cote d'Ivoire",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "10838.9"
+    },
+    {
+        "lfd": "247",
+        "land": "Cameroon",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "9557.3"
+    },
+    {
+        "lfd": "248",
+        "land": "Colombia",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "79186.7"
+    },
+    {
+        "lfd": "249",
+        "land": "Comoros",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "326.2"
+    },
+    {
+        "lfd": "250",
+        "land": "Cabo Verde",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "617.2"
+    },
+    {
+        "lfd": "251",
+        "land": "Costa Rica",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "7956.4"
+    },
+    {
+        "lfd": "252",
+        "land": "Caribbean small states",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "37614.99"
+    },
+    {
+        "lfd": "253",
+        "land": "Cuba",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "24418.5"
+    },
+    {
+        "lfd": "254",
+        "land": "Cyprus",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "7191.0"
+    },
+    {
+        "lfd": "255",
+        "land": "Czechia",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "97712.9"
+    },
+    {
+        "lfd": "256",
+        "land": "Germany",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "658693.5"
+    },
+    {
+        "lfd": "257",
+        "land": "Djibouti",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "428.27"
+    },
+    {
+        "lfd": "258",
+        "land": "Dominica",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "174.1"
+    },
+    {
+        "lfd": "259",
+        "land": "Denmark",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "29696.5"
+    },
+    {
+        "lfd": "260",
+        "land": "Dominican Republic",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "25775.2"
+    },
+    {
+        "lfd": "261",
+        "land": "Algeria",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "170582.4"
+    },
+    {
+        "lfd": "262",
+        "land": "East Asia & Pacific (excluding high income)",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "12535996.7"
+    },
+    {
+        "lfd": "263",
+        "land": "Early-demographic dividend",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "7347348.73"
+    },
+    {
+        "lfd": "264",
+        "land": "East Asia & Pacific",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "14703257.4"
+    },
+    {
+        "lfd": "265",
+        "land": "Europe & Central Asia (excluding high income)",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "2922190.2"
+    },
+    {
+        "lfd": "266",
+        "land": "Europe & Central Asia",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "6034.379.546.716"
+    },
+    {
+        "lfd": "267",
+        "land": "Ecuador",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "39631.4"
+    },
+    {
+        "lfd": "268",
+        "land": "Euro area",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "2095.558.337"
+    },
+    {
+        "lfd": "269",
+        "land": "Eritrea",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "697.2"
+    },
+    {
+        "lfd": "270",
+        "land": "Spain",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "241886.5"
+    },
+    {
+        "lfd": "271",
+        "land": "Estonia",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "10060.7"
+    },
+    {
+        "lfd": "272",
+        "land": "Ethiopia",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "17708.0"
+    },
+    {
+        "lfd": "273",
+        "land": "European Union",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "2729.768.437"
+    },
+    {
+        "lfd": "274",
+        "land": "Fragile and conflict affected situations",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "854476.82"
+    },
+    {
+        "lfd": "275",
+        "land": "Finland",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "40987.1"
+    },
+    {
+        "lfd": "276",
+        "land": "Fiji",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "1393.5"
+    },
+    {
+        "lfd": "277",
+        "land": "France",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "300561.6"
+    },
+    {
+        "lfd": "278",
+        "land": "Gabon",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "5274.5"
+    },
+    {
+        "lfd": "279",
+        "land": "United Kingdom",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "345934.3"
+    },
+    {
+        "lfd": "280",
+        "land": "Georgia",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "10549.6"
+    },
+    {
+        "lfd": "281",
+        "land": "Ghana",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "18039.1"
+    },
+    {
+        "lfd": "282",
+        "land": "Guinea",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "4517.0"
+    },
+    {
+        "lfd": "283",
+        "land": "Guinea-Bissau",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "325.3"
+    },
+    {
+        "lfd": "284",
+        "land": "Equatorial Guinea",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "4876.5"
+    },
+    {
+        "lfd": "285",
+        "land": "Greece",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "59990.3"
+    },
+    {
+        "lfd": "286",
+        "land": "Grenada",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "346.2"
+    },
+    {
+        "lfd": "287",
+        "land": "Guatemala",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "19017.8"
+    },
+    {
+        "lfd": "288",
+        "land": "Guyana",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "2795.9"
+    },
+    {
+        "lfd": "289",
+        "land": "High income",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "11.869.050.116.716"
+    },
+    {
+        "lfd": "290",
+        "land": "Honduras",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "10196.4"
+    },
+    {
+        "lfd": "291",
+        "land": "Heavily indebted poor countries (HIPC)",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "235656.82"
+    },
+    {
+        "lfd": "292",
+        "land": "Croatia",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "16523.3"
+    },
+    {
+        "lfd": "293",
+        "land": "Haiti",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "3317.34"
+    },
+    {
+        "lfd": "294",
+        "land": "Hungary",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "47261.8"
+    },
+    {
+        "lfd": "295",
+        "land": "IBRD only",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "21462940.42"
+    },
+    {
+        "lfd": "296",
+        "land": "IDA & IBRD total",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "22406640.81"
+    },
+    {
+        "lfd": "297",
+        "land": "IDA total",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "943700.39"
+    },
+    {
+        "lfd": "298",
+        "land": "IDA blend",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "478944.6"
+    },
+    {
+        "lfd": "299",
+        "land": "Indonesia",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "605290.6"
+    },
+    {
+        "lfd": "300",
+        "land": "IDA only",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "464755.79"
+    },
+    {
+        "lfd": "301",
+        "land": "India",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "2423951.4"
+    },
+    {
+        "lfd": "302",
+        "land": "Ireland",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "35812.2"
+    },
+    {
+        "lfd": "303",
+        "land": "Iraq",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "180687.6"
+    },
+    {
+        "lfd": "304",
+        "land": "Iceland",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "1638.2"
+    },
+    {
+        "lfd": "305",
+        "land": "Israel",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "62796.3"
+    },
+    {
+        "lfd": "306",
+        "land": "Italy",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "317223.0"
+    },
+    {
+        "lfd": "307",
+        "land": "Jamaica",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "8394.3"
+    },
+    {
+        "lfd": "308",
+        "land": "Jordan",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "23147.9"
+    },
+    {
+        "lfd": "309",
+        "land": "Japan",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "1073645.3"
+    },
+    {
+        "lfd": "310",
+        "land": "Kazakhstan",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "204592.2"
+    },
+    {
+        "lfd": "311",
+        "land": "Kenya",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "19481.9"
+    },
+    {
+        "lfd": "312",
+        "land": "Kyrgyz Republic",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "10017.4"
+    },
+    {
+        "lfd": "313",
+        "land": "Cambodia",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "18093.2"
+    },
+    {
+        "lfd": "314",
+        "land": "Kiribati",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "73.6"
+    },
+    {
+        "lfd": "315",
+        "land": "St. Kitts and Nevis",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "247.5"
+    },
+    {
+        "lfd": "316",
+        "land": "Kuwait",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "93863.6"
+    },
+    {
+        "lfd": "317",
+        "land": "Latin America & Caribbean (excluding high income)",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "1376833.06"
+    },
+    {
+        "lfd": "318",
+        "land": "Lao PDR",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "19170.9"
+    },
+    {
+        "lfd": "319",
+        "land": "Lebanon",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "26916.5"
+    },
+    {
+        "lfd": "320",
+        "land": "Liberia",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "1146.2"
+    },
+    {
+        "lfd": "321",
+        "land": "Libya",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "54692.7"
+    },
+    {
+        "lfd": "322",
+        "land": "St. Lucia",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "534.6"
+    },
+    {
+        "lfd": "323",
+        "land": "Latin America & Caribbean",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "1620695.03"
+    },
+    {
+        "lfd": "324",
+        "land": "Least developed countries: UN classification",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "370595.59"
+    },
+    {
+        "lfd": "325",
+        "land": "Low income",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "191195.28"
+    },
+    {
+        "lfd": "326",
+        "land": "Liechtenstein",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "149.025.716"
+    },
+    {
+        "lfd": "327",
+        "land": "Sri Lanka",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "23427.9"
+    },
+    {
+        "lfd": "328",
+        "land": "Lower middle income",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "5122757.31"
+    },
+    {
+        "lfd": "329",
+        "land": "Low & middle income",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "21860472.61"
+    },
+    {
+        "lfd": "330",
+        "land": "Lesotho",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "2300.1"
+    },
+    {
+        "lfd": "331",
+        "land": "Late-demographic dividend",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "15468044.3"
+    },
+    {
+        "lfd": "332",
+        "land": "Lithuania",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "11735.8"
+    },
+    {
+        "lfd": "333",
+        "land": "Luxembourg",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "9500.3"
+    },
+    {
+        "lfd": "334",
+        "land": "Latvia",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "7569.1"
+    },
+    {
+        "lfd": "335",
+        "land": "Morocco",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "70986.3"
+    },
+    {
+        "lfd": "336",
+        "land": "Moldova",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "8921.6"
+    },
+    {
+        "lfd": "337",
+        "land": "Madagascar",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "3927.7"
+    },
+    {
+        "lfd": "338",
+        "land": "Maldives",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "1999.5"
+    },
+    {
+        "lfd": "339",
+        "land": "Middle East & North Africa",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "2508614.57"
+    },
+    {
+        "lfd": "340",
+        "land": "Mexico",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "451828.8"
+    },
+    {
+        "lfd": "341",
+        "land": "Marshall Islands",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "358.7"
+    },
+    {
+        "lfd": "342",
+        "land": "North America",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "1913642.4"
+    },
+    {
+        "lfd": "343",
+        "land": "Mauritius",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "1820.6"
+    },
+    {
+        "lfd": "344",
+        "land": "Mali",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "4742.3"
+    },
+    {
+        "lfd": "345",
+        "land": "Malawi",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "2645.8"
+    },
+    {
+        "lfd": "346",
+        "land": "Mongolia",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "130954.8"
+    },
+    {
+        "lfd": "347",
+        "land": "Myanmar",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "105473.6"
+    },
+    {
+        "lfd": "348",
+        "land": "Montenegro",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "9600.0"
+    },
+    {
+        "lfd": "349",
+        "land": "Morocco",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "70986.3"
+    },
+    {
+        "lfd": "350",
+        "land": "Namibia",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "8232.0"
+    },
+    {
+        "lfd": "351",
+        "land": "Niger",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "11159.0"
+    },
+    {
+        "lfd": "352",
+        "land": "Nigeria",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "333557.3"
+    },
+    {
+        "lfd": "353",
+        "land": "New Zealand",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "262473.4"
+    },
+    {
+        "lfd": "354",
+        "land": "North Macedonia",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "12183.5"
+    },
+    {
+        "lfd": "355",
+        "land": "Norway",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "38306.6"
+    },
+    {
+        "lfd": "356",
+        "land": "Oman",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "87204.5"
+    },
+    {
+        "lfd": "357",
+        "land": "Pakistan",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "167075.1"
+    },
+    {
+        "lfd": "358",
+        "land": "Palestine",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "5916.1"
+    },
+    {
+        "lfd": "359",
+        "land": "Philippines",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "300046.5"
+    },
+    {
+        "lfd": "360",
+        "land": "Papua New Guinea",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "7367.2"
+    },
+    {
+        "lfd": "361",
+        "land": "Poland",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "306261.7"
+    },
+    {
+        "lfd": "362",
+        "land": "Portugal",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "88756.0"
+    },
+    {
+        "lfd": "363",
+        "land": "Puerto Rico",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "11432.3"
+    },
+    {
+        "lfd": "364",
+        "land": "Qatar",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "89022.5"
+    },
+    {
+        "lfd": "365",
+        "land": "Romania",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "87229.6"
+    },
+    {
+        "lfd": "366",
+        "land": "Russia",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "1879366.1"
+    },
+    {
+        "lfd": "367",
+        "land": "Rwanda",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "1387.0"
+    },
+    {
+        "lfd": "368",
+        "land": "Saudi Arabia",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "748768.3"
+    },
+    {
+        "lfd": "369",
+        "land": "Solomon Islands",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "278.0"
+    },
+    {
+        "lfd": "370",
+        "land": "Somalia",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "2439.2"
+    },
+    {
+        "lfd": "371",
+        "land": "South Sudan",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "1699.0"
+    },
+    {
+        "lfd": "372",
+        "land": "South Asia",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "2585964.5"
+    },
+    {
+        "lfd": "373",
+        "land": "Sub-Saharan Africa (excluding high income)",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "7378551.6"
+    },
+    {
+        "lfd": "374",
+        "land": "Sub-Saharan Africa",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "8068211.83"
+    },
+    {
+        "lfd": "375",
+        "land": "Sierra Leone",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "2225.2"
+    },
+    {
+        "lfd": "376",
+        "land": "Senegal",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "7927.5"
+    },
+    {
+        "lfd": "377",
+        "land": "Singapore",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "7271.3"
+    },
+    {
+        "lfd": "378",
+        "land": "San Marino",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "59.9"
+    },
+    {
+        "lfd": "379",
+        "land": "Suriname",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "3189.2"
+    },
+    {
+        "lfd": "380",
+        "land": "Sweden",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "56594.2"
+    },
+    {
+        "lfd": "381",
+        "land": "Switzerland",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "76463.8"
+    },
+    {
+        "lfd": "382",
+        "land": "Syrian Arab Republic",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "54579.2"
+    },
+    {
+        "lfd": "383",
+        "land": "Tajikistan",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "2296.8"
+    },
+    {
+        "lfd": "384",
+        "land": "Turkmenistan",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "49424.6"
+    },
+    {
+        "lfd": "385",
+        "land": "Thailand",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "109149.3"
+    },
+    {
+        "lfd": "386",
+        "land": "Timor-Leste",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "3833.4"
+    },
+    {
+        "lfd": "387",
+        "land": "Turkey",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "737539.6"
+    },
+    {
+        "lfd": "388",
+        "land": "Taiwan",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "40544.0"
+    },
+    {
+        "lfd": "389",
+        "land": "Tanzania",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "4999.8"
+    },
+    {
+        "lfd": "390",
+        "land": "Trinidad and Tobago",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "3172.3"
+    },
+    {
+        "lfd": "391",
+        "land": "Togo",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "4793.1"
+    },
+    {
+        "lfd": "392",
+        "land": "Ukraine",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "559929.0"
+    },
+    {
+        "lfd": "393",
+        "land": "United Arab Emirates",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "181704.8"
+    },
+    {
+        "lfd": "394",
+        "land": "United Kingdom",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "276756.1"
+    },
+    {
+        "lfd": "395",
+        "land": "United States",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "9385264.6"
+    },
+    {
+        "lfd": "396",
+        "land": "Uruguay",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "34650.0"
+    },
+    {
+        "lfd": "397",
+        "land": "Uzbekistan",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "18553.3"
+    },
+    {
+        "lfd": "398",
+        "land": "Vanuatu",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "151.6"
+    },
+    {
+        "lfd": "399",
+        "land": "Venezuela",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "33449.8"
+    },
+    {
+        "lfd": "400",
+        "land": "West Bank and Gaza",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "5916.1"
+    },
+    {
+        "lfd": "401",
+        "land": "World",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "10318777.74"
+    },
+    {
+        "lfd": "402",
+        "land": "Zambia",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "10844.4"
+    },
+    {
+        "lfd": "403",
+        "land": "Zimbabwe",
+        "unternehmen": "Land",
+        "jahr": "2019",
+        "emissionen": "20887.5"
+    },
+    {
+        "lfd": "404",
+        "land": "Timor-Leste",
+        "unternehmen": "Daimler AG",
+        "jahr": "2019",
+        "emissionen": "3833.4"
+    },
+    {
+        "lfd": "405",
+        "land": "Turkey",
+        "unternehmen": "Mercedes",
+        "jahr": "2019",
+        "emissionen": "737539.6"
+    },
+    {
+        "lfd": "406",
+        "land": "Taiwan",
+        "unternehmen": "123AG",
+        "jahr": "2019",
+        "emissionen": "40544.0"
+    },
+    {
+        "lfd": "407",
+        "land": "Tanzania",
+        "unternehmen": "Siemens",
+        "jahr": "2019",
+        "emissionen": "4999.8"
+    }
+]
